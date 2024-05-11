@@ -7,8 +7,8 @@
 
 ## Fitur
 
-- [Read File]()
-- [Write File]()
+- [Read File](baca-file)
+- [Write File](tulis-file)
 - [Databank Sistem / Array]()
 - [Add Data To Databank/Array]()
 - [Looping / Statmen For]()
