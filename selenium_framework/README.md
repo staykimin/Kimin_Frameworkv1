@@ -1,4 +1,4 @@
-# Selenium Framework
+# Kimin Selenium Framework (KSF)
 
 <p align="center">
   <img width="40%" src="../foto/KSF.png"/>
@@ -38,3 +38,21 @@ sudo apt install python3-tk
 ./KSF -p Your_Name_Project/Folder
 ```
 
+*NB:Klik Kiri Untuk Menambahkan Komponen dan Kanan Untuk Menghapus Komponen*
+
+
+## BACA FILE
+
+| Field |  Description                |
+| :-------- | :------------------------- |
+| `Path File` | Digunakan Untuk Mendefinisikan Dimana Lokasi/Path File Yang Akan Dibaca  |
+| `Var/Databank` | Digunakan Untuk Menyimpan Data Yang Dibaca Pada Variabel  |
+
+
+## Tulis FILE
+
+| Field | Description                |
+| :-------- | :------------------------- |
+| `Path File` | Digunakan Untuk Mendefinisikan Dimana Lokasi/Path File Yang Akan Ditulis  |
+| `Var/Databank`| Digunakan Untuk Memanggil Nama Variabel/Databank Yang Akan Ditulis |
+| `Split By` | Karakter Apa Yang akan di Ditambahkan di Akhir Data |
