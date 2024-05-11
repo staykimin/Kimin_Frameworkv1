@@ -1,0 +1,28 @@
+{
+	"pref_config":[],
+	"browser_config":
+		[
+			"--disable-infobars",
+			"--log-level=3",
+			"--disable-blink-features=AutomationControlled",
+			"--disable-popup-blocking",
+			"--no-sandbox",
+			"--disable-dev-shm-usage",
+			"--disable-web-security",
+			"--disable-gpu",
+			"--disable-cache",
+			"--disable-impl-side-painting",
+			"--disable-software-rasterizzer",
+			"--disable-features=site-per-process",
+			"--prerender-from-omnibox=disabled",
+			"--disable-composited-antialiasing",
+			"--metrics-recording-only",
+			"--no-experiments",
+			"--disable-hang-monitor",
+			"--disable-promt-on-report",
+			"--disable-tab-for-desktop-share"
+		],
+	"extensi_path":"",
+	"folder_profile":"",
+	"modul_path":""
+}
